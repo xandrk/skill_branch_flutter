@@ -1,6 +1,6 @@
-# skill_branch_flutter
+# galleryapp
 
-A new Flutter project.
+Amazing Flutter Project
 
 ## Getting Started
 
